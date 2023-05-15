@@ -1,11 +1,1 @@
-[
-  {
-    "id": 1,
-    "name": "Testnet BAGC PFP NFT",
-    "symbol": "TBAGC",
-    "description": "Testnet ALTAVA | BAGC (Bored Ape Golf Club)",
-    "address": "0xd7be72fe7b6a036c952eb6333cbe00fe58ca47ef",
-    "image": "https://static.cube.store/files/nft_farm/membership/bagc/logo.png",
-    "singleNftDomain": "https://fqa-api.fncy.world/tankers/markets/bagc/nfts/0xd7be72fe7b6a036c952Eb6333CBe00Fe58ca47Ef"
-  }
-]
+[]
