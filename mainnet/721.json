@@ -34,5 +34,14 @@
     "address": "0x6450f64b75682f9e5995dfb397be777150cca7c7",
     "image": "https://static.cube.store/markets/irris/title.png",
     "singleNftDomain": "https://api.fncy.world/tankers/markets/irris/nfts"
+  },
+  {
+    "id": 5,
+    "name": "KYK Foundation",
+    "symbol": "KYK",
+    "description": "The donations raised through the KYK Foundation Digital Membership will be used for the development of youth sports.",
+    "address": "0x5B13D0ef74B93d44De68c022FE9c085E7aE2dF75",
+    "image": "https://static.market.fncy.world/static/file/4PKPXcS9UKOtrCQDsTo0cJ-XS9UbMKxUKSCMj3fbuPsxlocfogUYl-VLA6J1n9sm.png",
+    "singleNftDomain": ""
   }
 ]
