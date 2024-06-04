@@ -43,5 +43,14 @@
     "address": "0x5B13D0ef74B93d44De68c022FE9c085E7aE2dF75",
     "image": "https://static.cube.store/kyk_32x32.png",
     "singleNftDomain": ""
+  },
+  {
+    "id": 6,
+    "name": "KYK Invitational 2024",
+    "symbol": "KYKInvitational2024",
+    "description": "With the motto of “Not end, but and,” the KYK Invitational 2024 will be Korea’s first global volleyball all-star games.",
+    "address": "0xDa2B694DBc6A3D691be200b0A4C7c6B985c40132",
+    "image": "https://static.cube.store/kykInvitational.png",
+    "singleNftDomain": ""
   }
 ]
