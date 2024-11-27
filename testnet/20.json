@@ -1,11 +1,3 @@
 [
-  {
-    "id": 1,
-    "name": "WAAO",
-    "symbol": "WAAO",
-    "description": "The digital asset leading the future of culture and entertainment.",
-    "address": "0xfdc2ea060cea752ea02854fcba10845a27ce9e7c",
-    "image": "https://d39rr95p1k6fjx.cloudfront.net/resource/assets/image/symbol/waao.png",
-    "tokenType":["ERC20"]
-  }
+
 ]
